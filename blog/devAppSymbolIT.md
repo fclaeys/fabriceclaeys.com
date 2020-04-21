@@ -39,7 +39,7 @@ Si une maquette papier ou un form peuvent suffire pour eprouver concept n'allez 
 Le déploiement en production doit être un non-événement, ils doivent s'adapter aux contraintes et besoins métier et donc être automatises et fréquents. 
 
 * Moins de specs + de dev
-Les specifications doivent se concentrer sur les **quoi** pas sur le **comment**. Le produit doit etre auto-documente, la documentation fait partie du produit et doit etre versionne au meme titre que le code.
+Les specifications doivent se concentrer sur le **quoi** pas sur le **comment**. Le produit doit etre auto-documente, la documentation fait partie du produit et doit etre versionne au meme titre que le code.
 
 ## Ux
 * Performance
