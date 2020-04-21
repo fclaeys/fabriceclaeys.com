@@ -8,11 +8,11 @@ Intro, blabla sur la vision de symbol pour le developpement d'application et sur
 
 Les cinqs piliers **trouver un autre mot / phrase**
 
-* Time to market **(courte definition)**
-* Ux (User Experience) **(courte definition)**
-* Humain **(courte definition)**
-* Interoperabilite **(courte definition)**
-* Rules **(courte definition)**
+* Time to market **Délai nécessaire pour le développement et la mise au point d'un projet ou d'un produit, avant qu'il puisse être lancé sur le marché**
+* Ux (User Experience) **Désigne la qualité de l’expérience vécue par l’utilisateur dans toute situation d’interaction. L’UX qualifie l’expérience globale ressentie par l’utilisateur lors de l’utilisation d’une interface, d’un appareil digital ou plus largement en interaction avec tout dispositif ou service**
+* Humain **Organisation et un principe a mettre en place IN PROGRESS**
+* Interoperabilite **Capacité que possède un produit ou un système, dont les interfaces sont intégralement connues, à fonctionner avec d’autres produits ou systèmes existants ou futurs et ce sans restriction d’accès ou de mise en œuvre**
+* Regles du jeu **il en faut bien quelques une quand meme ... IN PROGRESS**
 
 ## Time to market
 * MVP
